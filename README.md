@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Haziq 👋
 
-<!--
-**zique17/zique17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Front-End Developer** from Kedah, Malaysia 🇲🇾.
 
-Here are some ideas to get you started:
+### About Me:
+- 🌱 I specialize in front-end development, creating beautiful and functional user interfaces.
+- 💻 I have experience in various languages including:
+  - PHP
+  - TypeScript
+  - JavaScript
+  - HTML
+  - CSS
+- ⚡ Frameworks I work with:
+  - Angular
+  - React
+  - Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me:
+- 📫 You can reach me at **haziqanuar66@gmail.com**.
+
+Thanks for visiting my profile!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=zique17&style=flat-square&color=green)
+
