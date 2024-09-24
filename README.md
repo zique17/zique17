@@ -2,6 +2,8 @@
 
 I am a **Front-End Developer** from Kedah, Malaysia 🇲🇾.
 
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ### About Me:
 - 🌱 I specialize in front-end development, creating beautiful and functional user interfaces.
 - 💻 I have experience in various languages including:
